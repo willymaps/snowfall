@@ -1,6 +1,6 @@
 ## Mapbox scrollytelling showing snowfall in 2022
 
-[Link to interactive](https://willymaps.github.io/sveltemapscroll)
+[Link to interactive](https://willymaps.github.io/snowfall)
 
 **Built with:**
 - [svelteKit](https://kit.svelte.dev/)
